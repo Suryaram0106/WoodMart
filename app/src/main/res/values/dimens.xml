@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="screen_margin">16dp</dimen>
+
+    <!--toolBar dimens-->
+    <dimen name="first_keyline">0dp</dimen>
+    <dimen name="second_keyline">0dp</dimen>
+    <dimen name="toolbar_horizontal_padding">4dp</dimen>
+
+
+    <!--sizes-->
+    <dimen name="size_of_value_zero">0dp</dimen>
+    <dimen name="size_of_value_one">1dp</dimen>
+    <dimen name="size_of_value_two">2dp</dimen>
+    <dimen name="size_of_value_three">3dp</dimen>
+    <dimen name="size_of_value_four">4dp</dimen>
+    <dimen name="size_of_value_five">5dp</dimen>
+    <dimen name="size_of_value_six">6dp</dimen>
+    <dimen name="size_of_value_seven">7dp</dimen>
+    <dimen name="size_of_value_eight">8dp</dimen>
+    <dimen name="size_of_value_nine">9dp</dimen>
+    <dimen name="size_of_value_ten">10dp</dimen>
+    <dimen name="size_of_value_fifteen">15dp</dimen>
+    <dimen name="size_of_value_twenty">20dp</dimen>
+    <dimen name="size_of_value_twenty_five">25dp</dimen>
+    <dimen name="size_of_value_thirty">30dp</dimen>
+    <dimen name="size_of_value_thirty_five">35dp</dimen>
+    <dimen name="size_of_value_fourty">40dp</dimen>
+    <dimen name="size_of_value_fourty_five">45dp</dimen>
+    <dimen name="size_of_value_fifty">50dp</dimen>
+    <dimen name="size_of_value_fifty_five">55dp</dimen>
+    <dimen name="size_of_value_sixty">60dp</dimen>
+    <dimen name="size_of_value_sixty_five">65dp</dimen>
+    <dimen name="size_of_value_eighty">80dp</dimen>
+    <dimen name="size_of_value_eighty_five">85dp</dimen>
+    <dimen name="size_of_value_hundred">100dp</dimen>
+    <dimen name="size_of_value_hundred_and_fifty">150dp</dimen>
+    <dimen name="size_of_value_two_hundred">200dp</dimen>
+    <dimen name="size_of_value_two_hundred_and_fifty">250dp</dimen>
+    <dimen name="size_of_value_ninety">90dp</dimen>
+    <dimen name="size_of_value_hundred_and_twenty">120dp</dimen>
+    <dimen name="size_of_value_seventy">70dp</dimen>
+    <dimen name="size_of_value_eighteen">18dp</dimen>
+    <dimen name="size_of_value_seventeen">17dp</dimen>
+    <dimen name="size_of_value_hundred_and_fourty">140dp</dimen>
+    <dimen name="size_of_value_hundred_and_ten">110dp</dimen>
+    <dimen name="size_of_value_hundred_and_five">105dp</dimen>
+    <dimen name="size_of_value_five_hundred">500dp</dimen>
+    <dimen name="size_of_value_three_hundred">300dp</dimen>
+    <dimen name="size_of_value_hundred_and_seventy">170dp</dimen>
+    <dimen name="size_of_value_twelve">12dp</dimen>
+    <dimen name="size_of_value_two_hundred_and_thirty">230dp</dimen>
+    <dimen name="size_of_value_twenty_four">24dp</dimen>
+    <dimen name="size_of_value_twenty_eight">28dp</dimen>
+    <dimen name="size_of_value_twenty_six">26dp</dimen>
+    <dimen name="size_of_value_sixteen">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+
+    <dimen name="text_size_small">8sp</dimen>
+    <dimen name="text_size_medium_small">10sp</dimen>
+    <dimen name="text_size_medium">12sp</dimen>
+    <dimen name="text_size_medium_large">14sp</dimen>
+    <dimen name="text_size_large">16sp</dimen>
+    <dimen name="text_size_18">18sp</dimen>
+    <dimen name="text_size_extra_large">20sp</dimen>
+    <dimen name="text_size_22">22sp</dimen>
+    <dimen name="text_size_24">24sp</dimen>
+    <dimen name="text_size_splash">24sp</dimen>
+    <dimen name="text_size_date_time">30sp</dimen>
+
+    <dimen name="padding_small">5dp</dimen>
+    <dimen name="padding_medium_small">8dp</dimen>
+    <dimen name="padding_medium">10dp</dimen>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="padding_extra_large">20dp</dimen>
+
+    <dimen name="margin_small">5dp</dimen>
+    <dimen name="margin_medium_small">8dp</dimen>
+    <dimen name="margin_medium">10dp</dimen>
+    <dimen name="margin_large">16dp</dimen>
+    <dimen name="margin_extra_large">20dp</dimen>
+
+    <dimen name="default_elevation">2dp</dimen>
+    <dimen name="dp_10">10dp</dimen>
+
+</resources>

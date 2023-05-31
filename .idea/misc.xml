@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/fab_label_background.xml" value="0.1395" />
+        <entry key="app/src/main/res/drawable-v24/ic_back_arrow.xml" value="0.1395" />
+        <entry key="app/src/main/res/drawable-v24/ic_email.xml" value="0.1395" />
+        <entry key="app/src/main/res/drawable-v24/ic_password.xml" value="0.1395" />
+        <entry key="app/src/main/res/drawable-v24/rect_border_black.xml" value="0.1395" />
+        <entry key="app/src/main/res/drawable-v24/splash_bg.xml" value="0.1395" />
+        <entry key="app/src/main/res/drawable/ic_baseline_keyboard_arrow_down_24.xml" value="0.1635" />
+        <entry key="app/src/main/res/drawable/ic_baseline_phone_android_24.xml" value="0.1635" />
+        <entry key="app/src/main/res/drawable/ic_baseline_remove_red_eye_24.xml" value="0.1635" />
+        <entry key="app/src/main/res/drawable/splash_bg.xml" value="0.1395" />
+        <entry key="app/src/main/res/font/quicksand.xml" value="0.18854166666666666" />
+        <entry key="app/src/main/res/font/quicksand_bold.xml" value="0.18854166666666666" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/change_password.xml" value="0.223731884057971" />
+        <entry key="app/src/main/res/layout/choose_payment_method.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/forgot_password.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/great_deals.xml" value="0.20572916666666666" />
+        <entry key="app/src/main/res/layout/item_great_deals.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/reset_password.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/signup.xml" value="0.20572916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

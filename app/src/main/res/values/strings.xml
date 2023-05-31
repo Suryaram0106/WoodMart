@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">WoodMart</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="mobile_email">Mobile Number</string>
+    <string name="password">Password</string>
+    <string name="new_user_sign_up_here">New to Wood Mart?</string>
+    <string name="sign_up">Signup</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="verify">Verify</string>
+    <string name="enter_otp">Enter your OTP</string>
+    <string name="enter_password">Enter your Password</string>
+    terms_conditions
+    <string name="terms_conditions">I agree with the Terms &amp; Conditions</string>
+    <string-array name="stateList">
+        <item>Tamilnadu</item>
+        <item>Karnataka</item>
+        <item>Delhi</item>
+        <item>Kerala</item>
+        <item>Andra Pradesh</item>
+
+    </string-array>
+
+
+    <string-array name="cityList">
+        <item>Chennai</item>
+        <item>Coimbatore</item>
+        <item>Ooty</item>
+        <item>Tirunelveli</item>
+        <item>Virudhunagar</item>
+        <item>Selam</item>
+
+    </string-array>
+
+
+
+</resources>
